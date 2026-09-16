@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Logs
+log.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv_test/
+venv/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
